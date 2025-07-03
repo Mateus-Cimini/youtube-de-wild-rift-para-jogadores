@@ -50,7 +50,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 #### Conteúdo instrucional:
 
 * [Guias 📝](#guias-)
-* [Mono Champions 🦹‍♂️](#mono-champions-)
+* [Mono Champions 🦹‍♂️](#mono-champions-️)
 * [Builds Chinesas 🀄](#builds-chinesas-)
 
 #### Competitivo:
@@ -59,7 +59,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 #### Vazamentos, Eventos e Skins:
 
-* [Vazamentos / Eventos 📢](#vazamentos-eventos-e-skins)
+* [Vazamentos / Eventos 📢](#vazamentoseventos-)
 * [Skins 🧥](#skins-)
 
 ### Toplaner 👊
