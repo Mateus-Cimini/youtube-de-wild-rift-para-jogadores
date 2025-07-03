@@ -41,7 +41,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 #### Rotas:
 
-- [Toplaner](#/README.md#toplaner)
+- [Toplaner 👊](#/README.md#toplaner)
 - [Jungler 🌴](#jungler-)
 * [MidLaner 🧙‍♂️](#midlaner-️)
 * [AdCarry 🏹](#adcarry-)

@@ -8,13 +8,14 @@
 </head>
 <body>
     <div id="app">Carregando...</div>
-
 <script>
   window.$docsify = {
     name: 'Wild Rift Canais',
-    routerMode: 'history'
+    routerMode: 'history',  // ou 'hash', mas se escolher 'history', use isso
+    notFoundPage: true       // evita ficar preso em loading ao acessar rota errada
   }
 </script>
+
 
 </body>
 </html>
