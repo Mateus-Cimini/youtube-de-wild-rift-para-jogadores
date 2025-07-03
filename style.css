@@ -37,6 +37,10 @@ code {
     color: #BB0A21;
 }
 
+.sidebar ul li.active>a {
+    color: #BB0A21;
+}
+
 
 @media (prefers-color-scheme: dark) {
   body, .sidebar {
