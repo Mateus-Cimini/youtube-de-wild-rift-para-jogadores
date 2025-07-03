@@ -37,10 +37,9 @@ code {
     color: #BB0A21;
 }
 
-li a.section-link {
+.sidebar ul li.active>a {
     color: #BB0A21;
 }
-
 
 @media (prefers-color-scheme: dark) {
   body, .sidebar {
