@@ -43,7 +43,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 * [TopLaner 👊](#toplaner-)
 * [Jungler 🌴](#jungler-)
-* [MidLaner 🧙‍♂️](#midlaner-)
+* [MidLaner 🧙‍♂️](#midlaner-️)
 * [AdCarry 🏹](#adcarry-)
 * [Suporte ➕](#suporte-)
 
@@ -59,7 +59,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 #### Vazamentos, Eventos e Skins:
 
-* [Vazamentos / Eventos 📢](#vazamentos-eventos-)
+* [Vazamentos / Eventos 📢](#vazamentos-eventos-e-skins)
 * [Skins 🧥](#skins-)
 
 ### Toplaner 👊
@@ -91,7 +91,6 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 - [Theyser](https://www.youtube.com/@Theyser) — Criador de conteúdo e streamer. Guias de novos campeões, reworks e gameplay.  
   _Tags: `jungler`, `Guias`, `Gameplays`, `meta`, `Wild Rounds`_
 
----
 
 ### MidLaner 🧙‍♂️
 
