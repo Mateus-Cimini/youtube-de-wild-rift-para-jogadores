@@ -41,7 +41,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 #### Rotas:
 
-* [TopLaner 👊](#toplaner-)
+* [TopLaner 👊](#/#toplaner)
 * [Jungler 🌴](#jungler-)
 * [MidLaner 🧙‍♂️](#midlaner-️)
 * [AdCarry 🏹](#adcarry-)
