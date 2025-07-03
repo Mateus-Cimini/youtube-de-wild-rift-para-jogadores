@@ -101,11 +101,13 @@ code {
     background-color: #42b983; /* cor clara para tema escuro */
   }
 
-
-  body.sidebar-open:before {
-    background-color: #1f2a38 ; /* ou qualquer fundo escuro desejado */
+  .sidebar-toggle {
+    background-color: #25374b;
   }
 
+    body.sidebar-open:before {
+    background-color: #35b952 !important;
+  }
 
 
   .sidebar>h1 a {
