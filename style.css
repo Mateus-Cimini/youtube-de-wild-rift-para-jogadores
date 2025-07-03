@@ -33,6 +33,10 @@ code {
   color: #d37380;
 }
 
+.sidebar>h1 a {
+    color: #BB0A21;
+}
+
 
 @media (prefers-color-scheme: dark) {
   body, .sidebar {
