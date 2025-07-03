@@ -41,10 +41,16 @@ code {
     color: #BB0A21;
 }
 
+/* Botão geral */
 .app-nav-toggle {
-    background-color: #74512e;
-  color: #BB0A21; 
+  color: #BB0A21 !important; /* Pode ajudar em temas com texto */
 }
+
+/* Barras do ícone (são spans dentro do botão) */
+.app-nav-toggle span {
+  background-color: #BB0A21 !important; /* COR DAS BARRAS */
+}
+
 
 
 @media (prefers-color-scheme: dark) {
