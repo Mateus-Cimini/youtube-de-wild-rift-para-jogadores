@@ -3,12 +3,6 @@ body, .sidebar {
     color: #25374b;
 }
 
-.content h1, 
-.content h2, 
-.content h3, 
-.content h4 {
-    color: purple !important ;
-}
 
 a {
     color: #BB0A21 !important;
@@ -25,3 +19,12 @@ code {
     font-weight: bold;
 }
 
+/* Links da sidebar (índice, navegação lateral) */
+.sidebar a {
+    color: #25374b; /* mesma cor do texto normal */
+}
+
+/* Quando passa o mouse, opcionalmente muda */
+.sidebar a:hover {
+    color: #20A39E; /* cor do destaque ao passar o mouse */
+}
