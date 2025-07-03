@@ -79,10 +79,10 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 ### Jungler 🌴
 
-- [Aspira](https://www.youtube.com/@AspiraLol) — Diversos guias, além de cursos gratuitos sobre micro/macro game. Canal focado em evolução no Wild Rift.  
+- [Aspira](https://www.youtube.com/@AspiraLol) — Diversos guias, além de cursos gratuitos sobre micro/macro game. Canal focado em evolução no Wild Rift. _Maior hater de Dragão Elemental_  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `TierList`, `Wild Rounds`, `Matchups`_
 
-- [Emerok](https://www.youtube.com/@emerok) — Conteúdos sobre novos campeões, guias, análise de patch notes e leitura de meta.Nosso eterno top2! 🫶  
+- [Emerok](https://www.youtube.com/@emerok) — Conteúdos sobre novos campeões, guias, análise de patch notes e leitura de meta. _Nosso eterno top2!_ 🫶  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `Wild Rounds`, `Matchups`_
 
 - [LordWR](https://www.youtube.com/@LorDmobawr) — Plays de qualidade, builds e gameplays explicativas.  
@@ -133,7 +133,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 ### Guias 📝
 
-- [Aspira](https://www.youtube.com/@AspiraLol) — Diversos guias e cursos gratuitos de micro e macro game. Canal voltado ao crescimento no Wild Rift.  
+- [Aspira](https://www.youtube.com/@AspiraLol) — Diversos guias, além de cursos gratuitos sobre micro/macro game. Canal focado em evolução no Wild Rift. _Maior hater de Dragão Elemental_  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `TierList`, `Wild Rounds`, `Matchups`_
 
 - [ChouhenWR](https://www.youtube.com/@ChouhenWR) — Guias de campeões da Top Lane com foco educativo.  
@@ -206,9 +206,9 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 - [A_Fefi](https://www.youtube.com/@A_fefi) — Gameplays descontraídas com muito humor. Participou como suporte no Wild Rounds.  
   _Tags: `sup`, `Gameplays`, `Wild Rounds`, `entretenimento`, `lives`_
 
-- [Aspira](https://www.youtube.com/@AspiraLol) — Guias e conteúdo técnico sobre micro/macro game e leitura de meta.  
+- [Aspira](https://www.youtube.com/@AspiraLol) — Diversos guias, além de cursos gratuitos sobre micro/macro game. Canal focado em evolução no Wild Rift. _Maior hater de Dragão Elemental_  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `TierList`, `Wild Rounds`, `Matchups`_
-
+  
 - [ChouhenWR](https://www.youtube.com/@ChouhenWR) — Guias e gameplay de Top Lane, com participação no competitivo.  
   _Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`_
 
