@@ -82,7 +82,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 - [Aspira](https://www.youtube.com/@AspiraLol) — Diversos guias, além de cursos gratuitos sobre micro/macro game. Canal focado em evolução no Wild Rift.  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `TierList`, `Wild Rounds`, `Matchups`_
 
-- [Emerok](https://www.youtube.com/@emerok) — Conteúdos sobre novos campeões, guias, análise de patch notes e leitura de meta.  
+- [Emerok](https://www.youtube.com/@emerok) — Conteúdos sobre novos campeões, guias, análise de patch notes e leitura de meta.Nosso eterno top2! 🫶  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `Wild Rounds`, `Matchups`_
 
 - [LordWR](https://www.youtube.com/@LorDmobawr) — Plays de qualidade, builds e gameplays explicativas.  
@@ -145,8 +145,10 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 - [DOIDERAWR](https://www.youtube.com/@DOIDERAWR1) — Conteúdo dinâmico com dicas e gameplay de qualidade.  
   _Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`_
 
-- [Emerok](https://www.youtube.com/@emerok) — Guias e explicações sobre campeões, meta e patches.  
+
+- [Emerok](https://www.youtube.com/@emerok) — Conteúdos sobre novos campeões, guias, análise de patch notes e leitura de meta.Nosso eterno top2! 🫶  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `Wild Rounds`, `Matchups`_
+
 
 - [Katrina](https://www.youtube.com/@Katrinamoba) — Gameplays com conhecimento técnico e humor.  
   _Tags: `mid`, `Guias`, `Gameplays`, `Macro`_
@@ -213,8 +215,10 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 - [DOIDERAWR](https://www.youtube.com/@DOIDERAWR1) — Jogadas insanas e dicas para evoluir no jogo.  
   _Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`_
 
-- [Emerok](https://www.youtube.com/@emerok) — Explicações de meta e guias de campeões, além de presença constante no competitivo.  
+
+- [Emerok](https://www.youtube.com/@emerok) — Conteúdos sobre novos campeões, guias, análise de patch notes e leitura de meta.Nosso eterno top2! 🫶  
   _Tags: `jungler`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `Wild Rounds`, `Matchups`_
+
 
 - [GuaxiWR](https://www.youtube.com/@GuaxiWR) — Mono Vladimir e presença forte no cenário competitivo.  
   _Tags: `mid`, `Gameplays`, `Wild Rounds`, `Mono Champion`_
