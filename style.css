@@ -41,6 +41,11 @@ code {
     color: #BB0A21;
 }
 
+.app-nav-toggle {
+  color: #BB0A21; 
+}
+
+
 @media (prefers-color-scheme: dark) {
   body, .sidebar {
     background-color: #25374b;
