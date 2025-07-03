@@ -7,7 +7,10 @@ h1, h2, h3, h4 {
     color: #20A39E;
 }
 
-a {
+h1>a,
+h2>a,
+h3>a,
+h4>a {
     color: #BB0A21;
 }
 a:hover {
