@@ -41,15 +41,12 @@ code {
     color: #BB0A21;
 }
 
-/* Botão geral */
-.app-nav-toggle {
-  color: #BB0A21 !important; /* Pode ajudar em temas com texto */
+/* Barras do menu hambúrguer - tema claro */
+.sidebar-toggle-button span {
+  background-color: #BB0A21; /* cor desejada */
+  transition: background-color 0.3s ease;
 }
 
-/* Barras do ícone (são spans dentro do botão) */
-.app-nav-toggle span {
-  background-color: #BB0A21 !important; /* COR DAS BARRAS */
-}
 
 
 
@@ -99,4 +96,9 @@ code {
   .sidebar a:hover {
     color: #6ee7b7;
   }
+
+   .sidebar-toggle-button span {
+    background-color: #e7e7e7; /* cor clara para tema escuro */
+  }
+
 }
