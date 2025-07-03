@@ -42,25 +42,25 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 #### Rotas:
 
 - [TopLaner 👊](#toplaner-👊)
-- [Jungler 🌴](#jungler-)
-* [MidLaner 🧙‍♂️](#midlaner-️)
-* [AdCarry 🏹](#adcarry-)
-* [Suporte ➕](#suporte-)
+- [Jungler 🌴](#jungler-🌴)
+* [MidLaner 🧙‍♂️](#midlaner-️🧙‍♂️)
+* [AdCarry 🏹](#adcarry-🏹)
+* [Suporte ➕](#suporte-➕)
 
 #### Conteúdo instrucional:
 
-* [Guias 📝](#guias-)
-* [Mono Champions 🦹‍♂️](#mono-champions-️)
-* [Builds Chinesas 🀄](#builds-chinesas-)
+* [Guias 📝](#guias-📝)
+* [Mono Champions 🦹‍♂️](#mono-champions-️🦹‍♂️)
+* [Builds Chinesas 🀄](#builds-chinesas-🀄)
 
 #### Competitivo:
 
-* [Wild Rounds 06/2025 🏆](#wild-rounds-062025-)
+* [Wild Rounds 06/2025 🏆](#wild-rounds-062025-🏆)
 
 #### Vazamentos, Eventos e Skins:
 
-* [Vazamentos / Eventos 📢](#vazamentoseventos-)
-* [Skins 🧥](#skins-)
+* [Vazamentos / Eventos 📢](#vazamentoseventos-📢)
+* [Skins 🧥](#skins-🧥)
 
 ### Toplaner 👊
 
