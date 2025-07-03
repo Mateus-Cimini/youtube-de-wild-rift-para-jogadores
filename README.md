@@ -16,11 +16,18 @@ Este projeto foi inspirado no projeto **[Canais Brasileiros para Pessoas Desenvo
 
 ## Contribuições 📌
 
-Se puder, leia as **[Diretrizes de Contribuição](CONTRIBUTING.md)** E desde já, agradecemos a todos os contribuidores. Vocês são demais! ❤️❤️
+Antes de tudo, leia as **[Diretrizes de Contribuição](CONTRIBUTING.md)**. Agradecemos muito a todos que colaboram! ❤️
 
-Caso voce saiba fazer alteraçoes em arquivos .md e saiba utilizar o github  basta abrir uma **[issue]()** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+Se você sabe editar arquivos `.md` e usar o GitHub, abra uma **[issue](https://github.com/Mateus-Cimini/youtube-de-wild-rift-para-jogadores/issues)** para sugerir melhorias ou correções, ou envie um Pull Request diretamente.
 
-Mas caso nao saiba basta entrar em contato em meu [Instagram](https://www.instagram.com/mateus.cimini/) ou no Discord @mateus184729
+Se não souber como fazer, entre em contato comigo pelo [Instagram](https://www.instagram.com/mateus.cimini/) ou Discord (@mateus184729).
+
+---
+
+### Para criadores de conteúdo mencionados:
+
+Se você teve seu canal ou trabalho citado e deseja que alguma informação seja alterada ou removida, por favor, fale comigo pelo Instagram ou Discord para que possamos ajustar.
+
 
 
 
@@ -36,24 +43,24 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 * [TopLaner 👊](#toplaner-)
 * [Jungler 🌴](#jungler-)
-* [MidLaner 🧙‍♂️](#midlaner)
-* [AdCarry 🏹](#adcarry)
-* [Suporte ➕](#suporte)
+* [MidLaner 🧙‍♂️](#midlaner-)
+* [AdCarry 🏹](#adcarry-)
+* [Suporte ➕](#suporte-)
 
 #### Conteúdo instrucional:
 
-* [Guias 📝](#guias)
-* [Mono Champions 🦹‍♂️](#mono-champions)
-* [Builds Chinesas 🀄](#builds-chinesas)
+* [Guias 📝](#guias-)
+* [Mono Champions 🦹‍♂️](#mono-champions-)
+* [Builds Chinesas 🀄](#builds-chinesas-)
 
 #### Competitivo:
 
-* [Wild Rounds 06/2025 🏆](#wild-rounds-062025)
+* [Wild Rounds 06/2025 🏆](#wild-rounds-062025-)
 
 #### Vazamentos, Eventos e Skins:
 
-* [Vazamentos / Eventos 📢](#vazamentos-eventos)
-* [Skins 🧥](#skins)
+* [Vazamentos / Eventos 📢](#vazamentos-eventos-)
+* [Skins 🧥](#skins-)
 
 ### Toplaner 👊
 
