@@ -71,4 +71,7 @@ code {
     color: #e7e7e7;
   }
 
-  .sid
+  .sidebar a:hover {
+    color: #6ee7b7;
+  }
+}
