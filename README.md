@@ -43,38 +43,38 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 - [TopLaner 👊](#toplaner-👊)
 - [Jungler 🌴](#jungler-🌴)
-* [MidLaner 🧙‍♂️](#midlaner-️🧙‍♂️)
-* [AdCarry 🏹](#adcarry-🏹)
-* [Suporte ➕](#suporte-➕)
+- [MidLaner 🧙‍♂️](#midlaner-️🧙‍♂️)
+- [AdCarry 🏹](#adcarry-🏹)
+- [Suporte ➕](#suporte-➕)
 
 #### Conteúdo instrucional:
 
-* [Guias 📝](#guias-📝)
-* [Mono Champions 🦹‍♂️](#mono-champions-️🦹‍♂️)
-* [Builds Chinesas 🀄](#builds-chinesas-🀄)
+- [Guias 📝](#guias-📝)
+- [Mono Champions 🦹‍♂️](#mono-champions-🦹‍♂️)
+- [Builds Chinesas 🀄](#builds-chinesas-🀄)
 
 #### Competitivo:
 
-* [Wild Rounds 06/2025 🏆](#wild-rounds-062025-🏆)
+- [Wild Rounds 06/2025 🏆](#wild-rounds-062025-🏆)
 
 #### Vazamentos, Eventos e Skins:
 
-* [Vazamentos / Eventos 📢](#vazamentoseventos-📢)
-* [Skins 🧥](#skins-🧥)
+- [Vazamentos / Eventos 📢](#vazamentoseventos-📢)
+- [Skins 🧥](#skins-🧥)
 
 ### Toplaner 👊
 
-* [ChouhenWR](https://www.youtube.com/@ChouhenWR) – Canal recente com diversos guias de campeões da rota Top. *Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`*
+- [ChouhenWR](https://www.youtube.com/@ChouhenWR) – Canal recente com diversos guias de campeões da rota Top. *Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`*
 
-* [DOIDERAWR](https://www.youtube.com/@DOIDERAWR1) – Canal com muito conteúdo sobre League of Legends: Wild Rift, incluindo dicas, jogadas impressionantes e muito entretenimento. *Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`*
+- [DOIDERAWR](https://www.youtube.com/@DOIDERAWR1) – Canal com muito conteúdo sobre League of Legends: Wild Rift, incluindo dicas, jogadas impressionantes e muito entretenimento. *Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`*
 
-* [Daniye](https://www.youtube.com/@Daniye) – Canal com diversos guias de campeões da rota Top, builds exóticas e gameplays explicativas. *Tags: `top`, `Guias`, `Gameplays`, `Builds`*
+- [Daniye](https://www.youtube.com/@Daniye) – Canal com diversos guias de campeões da rota Top, builds exóticas e gameplays explicativas. *Tags: `top`, `Guias`, `Gameplays`, `Builds`*
 
-* [Laposa](https://www.youtube.com/@LaposaEnsina) – Toplaner e suporte experiente em League of Legends. No canal, há guias de campeões e itens, builds, tier lists e muito mais. *Tags: `top`, `sup`, `Tier List`, `Builds`, `Patch Notes`, `Guias`, `Gameplays`*
+- [Laposa](https://www.youtube.com/@LaposaEnsina) – Toplaner e suporte experiente em League of Legends. No canal, há guias de campeões e itens, builds, tier lists e muito mais. *Tags: `top`, `sup`, `Tier List`, `Builds`, `Patch Notes`, `Guias`, `Gameplays`*
 
-* [Lusca](https://www.youtube.com/@YTLusca) – Canal com guias da rota Top, além de vídeos sobre eventos e como ganhar skins gratuitamente. *Tags: `top`, `Guias`, `Skins grátis`, `Eventos`, `Gameplays`*
+- [Lusca](https://www.youtube.com/@YTLusca) – Canal com guias da rota Top, além de vídeos sobre eventos e como ganhar skins gratuitamente. *Tags: `top`, `Guias`, `Skins grátis`, `Eventos`, `Gameplays`*
 
-* [Shiso](https://www.youtube.com/@Shisoapenas) – Canal com diversos guias de campeões, dicas de matchups e macro game. *Tags: `top`, `Guias`, `Gameplays`, `Macro`, `Matchups`*
+- [Shiso](https://www.youtube.com/@Shisoapenas) – Canal com diversos guias de campeões, dicas de matchups e macro game. *Tags: `top`, `Guias`, `Gameplays`, `Macro`, `Matchups`*
 
 
 ### Jungler 🌴
@@ -109,7 +109,6 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 - [Tayygan](https://www.youtube.com/@tayggan) — Canal com guias, builds únicas, patch notes e dicas avançadas.  
   _Tags: `mid`, `Guias`, `Gameplays`, `Macro`, `Micro`, `meta`, `TierList`, `Wild Rounds`, `Builds`, `Matchups`_
 
----
 
 ### AdCarry 🏹
 
