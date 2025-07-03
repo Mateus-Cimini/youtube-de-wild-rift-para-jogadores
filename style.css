@@ -47,19 +47,28 @@ code {
   .content a {
     color: #ff7f7f;
   }
+
   .content a:hover {
     color: #ffbdbd;
   }
 
-  code {
-    background-color: #74512e;
-    color: #ff8811;
+  /* Corrigindo estilos do <code> */
+  .content code {
+    background-color: #74512e !important;  /* cor de fundo amarelada */
+    color: #ff8811 !important;             /* cor do texto */
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+
+  /* Também pode afetar <pre><code> */
+  .content pre code {
+    background-color: #74512e !important;
+    color: #ffdd99 !important;
   }
 
   .sidebar a {
     color: #e7e7e7;
   }
-  .sidebar a:hover {
-    color: #6ee7b7;
-  }
-}
+
+  .sid
