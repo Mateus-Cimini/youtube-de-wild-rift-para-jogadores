@@ -89,6 +89,10 @@ code {
     color: #ffdd99 !important;
   }
 
+    .content a:hover {
+    color: #42b983;
+  }
+
   .sidebar a {
     color: #e7e7e7;
   }
@@ -104,11 +108,6 @@ code {
   .sidebar-toggle {
     background-color: #25374b;
   }
-
-    body.sidebar-open:before {
-    background-color: #35b952 !important;
-  }
-
 
   .sidebar>h1 a {
     color: #42b983;
