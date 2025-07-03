@@ -7,7 +7,7 @@ body, .sidebar {
 .content h2, 
 .content h3, 
 .content h4 {
-    color: #20A39E;
+    color: #20A39E !important ;
 }
 
 a {
