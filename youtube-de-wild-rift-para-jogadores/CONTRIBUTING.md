@@ -1,0 +1,1 @@
+Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/lucasgomide/videos-pt.br-tecnologia/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
