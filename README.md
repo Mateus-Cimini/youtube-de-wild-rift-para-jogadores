@@ -92,7 +92,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
   _Tags: `jungler`, `Guias`, `Gameplays`, `meta`, `Wild Rounds`_
 
 
-### MidLaner 🧙‍♂️
+### Midlaner 🧙‍♂️
 
 - [GuaxiWR](https://www.youtube.com/@GuaxiWR) — Mono Vladimir, canal focado em gameplays do Wild Rift.  
   _Tags: `mid`, `Gameplays`, `Wild Rounds`, `Mono Champion`_
@@ -182,7 +182,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
   _Tags: `jungler`, `Guias`, `Gameplays`, `meta`, `Wild Rounds`_
 
 
-### Mono Champions 🦹‍♂️
+### Mono champions 🦹‍♂️
 
 - [GuaxiWR](https://www.youtube.com/@GuaxiWR) — Mono Vladimir no Wild Rift. Canal voltado a gameplay de alto nível com foco em um campeão.  
   _Tags: `mid`, `Gameplays`, `Wild Rounds`, `Mono Champion`_
