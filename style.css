@@ -17,3 +17,11 @@ a:hover {
     color: #d37380 !important;
 }
 
+code {
+    background-color: #f0f0f0 !important;
+    color: #20A39E !important;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
