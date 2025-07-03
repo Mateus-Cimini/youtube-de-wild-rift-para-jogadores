@@ -1,6 +1,6 @@
 body, .sidebar {
     background-color: #fff9fb;
-    color: #25374b;
+    color: #25374b ;
 }
 
 
@@ -27,4 +27,38 @@ code {
 /* Quando passa o mouse, opcionalmente muda */
 .sidebar a:hover {
     color: #20A39E !important; /* cor do destaque ao passar o mouse */
+}
+
+
+@media (prefers-color-scheme: dark) {
+  body, .sidebar {
+    background-color: #25374b;
+    color: #e7e7e7;
+  }
+
+  h1, h2, h3, h4 {
+    color: #6ee7b7;
+  }
+
+  .content a {
+    color: #581908;
+  }
+  .content a:hover {
+    color: #5a2618 ;
+  }
+
+  code {
+    background-color: #74512e !important;
+    color: #ff8811 !important;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+  .sidebar a {
+    color: #e7e7e7;
+  }
+  .sidebar a:hover {
+    color: #74512e;
+  }
 }
