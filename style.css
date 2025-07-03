@@ -101,4 +101,12 @@ code {
     background-color: #e7e7e7; /* cor clara para tema escuro */
   }
 
+  .sidebar>h1 a {
+    color: #42b983;
+}
+
+.sidebar ul li.active>a {
+    color: #42b983;
+}
+
 }
