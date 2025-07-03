@@ -1,0 +1,15 @@
+body, .sidebar {
+    background-color: #fff9fb;
+    color: #25374b;
+}
+
+h1, h2, h3, h4 {
+    color: #20A39E;
+}
+
+a {
+    color: #BB0A21;
+}
+a:hover {
+    color: #d37380;
+}
