@@ -41,7 +41,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 #### Rotas:
 
-- [TopLaner 👊](#toplaner)
+- [TopLaner 👊](#toplaner👊)
 - [Jungler 🌴](#jungler-)
 * [MidLaner 🧙‍♂️](#midlaner-️)
 * [AdCarry 🏹](#adcarry-)
@@ -62,7 +62,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 * [Vazamentos / Eventos 📢](#vazamentoseventos-)
 * [Skins 🧥](#skins-)
 
-### Toplaner 👊
+### Toplaner 
 
 * [ChouhenWR](https://www.youtube.com/@ChouhenWR) – Canal recente com diversos guias de campeões da rota Top. *Tags: `top`, `Wild Rounds`, `Guias`, `Gameplays`*
 
