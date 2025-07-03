@@ -10,9 +10,10 @@ body, .sidebar {
     color: #20A39E;
 }
 
-.content a {
-    color: #BB0A21;
+a {
+    color: #BB0A21 !important;
 }
-.content a:hover {
-    color: #e2324d;
+a:hover {
+    color: #d37380 !important;
 }
+
