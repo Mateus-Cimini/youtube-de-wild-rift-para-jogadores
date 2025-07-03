@@ -44,13 +44,10 @@ code {
     color: #6ee7b7;
   }
 
-.content h1,
-.content h2,
-.content h3,
-.content h4 {
+.anchor span {
     color: #373737;
-    font-weight: bold;
 }
+
 
 
   .content a {
