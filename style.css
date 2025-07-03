@@ -21,7 +21,7 @@ code {
 
 /* Links da sidebar (índice, navegação lateral) */
 .sidebar a {
-    color: #25374b !important; /* mesma cor do texto normal */
+    color: #25374b ; /* mesma cor do texto normal */
 }
 
 /* Quando passa o mouse, opcionalmente muda */
