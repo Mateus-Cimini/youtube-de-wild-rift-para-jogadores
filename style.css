@@ -1,32 +1,36 @@
+/* Tema claro padrão */
 body, .sidebar {
-    background-color: #fff9fb;
-    color: #25374b ;
+  background-color: #fff9fb;
+  color: #25374b;
 }
 
-
-a {
-    color: #BB0A21 !important;
-}
-a:hover {
-    color: #d37380 !important;
+h1, h2, h3, h4 {
+  color: #20A39E;
 }
 
+/* LINKS DO CONTEÚDO PRINCIPAL */
+.content a {
+  color: #BB0A21;
+}
+.content a:hover {
+  color: #d37380;
+}
+
+/* Códigos */
 code {
-    background-color: #f0f0f0 !important;
-    color: #20A39E !important;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-weight: bold;
+  background-color: #f0f0f0;
+  color: #20A39E;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
 }
 
-/* Links da sidebar (índice, navegação lateral) */
+/* LINKS DA SIDEBAR */
 .sidebar a {
-    color: #25374b ; /* mesma cor do texto normal */
+  color: #25374b;
 }
-
-/* Quando passa o mouse, opcionalmente muda */
 .sidebar a:hover {
-    color: #20A39E !important; /* cor do destaque ao passar o mouse */
+  color: #20A39E;
 }
 
 
@@ -41,24 +45,21 @@ code {
   }
 
   .content a {
-    color: #581908;
+    color: #ff7f7f;
   }
   .content a:hover {
-    color: #5a2618 ;
+    color: #ffbdbd;
   }
 
   code {
-    background-color: #74512e !important;
-    color: #ff8811 !important;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-weight: bold;
-}
+    background-color: #74512e;
+    color: #ff8811;
+  }
 
   .sidebar a {
     color: #e7e7e7;
   }
   .sidebar a:hover {
-    color: #74512e;
+    color: #6ee7b7;
   }
 }
