@@ -43,7 +43,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
 
 - [TopLaner 👊](#toplaner-👊)
 - [Jungler 🌴](#jungler-🌴)
-- [MidLaner 🧙‍♂️](#midlaner-️🧙‍♂️)
+- [MidLaner ✨](#midlaner-️✨)
 - [AdCarry 🏹](#adcarry-🏹)
 - [Suporte ➕](#suporte-➕)
 
@@ -92,7 +92,7 @@ O objetivo é listar os conteúdos de forma que a navegação fique amigável. e
   _Tags: `jungler`, `Guias`, `Gameplays`, `meta`, `Wild Rounds`_
 
 
-### Midlaner 🧙‍♂️
+### MidLaner ✨
 
 - [GuaxiWR](https://www.youtube.com/@GuaxiWR) — Mono Vladimir, canal focado em gameplays do Wild Rift.  
   _Tags: `mid`, `Gameplays`, `Wild Rounds`, `Mono Champion`_
